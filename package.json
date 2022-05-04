@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.8",
+    "angular": "^1.8.3",
     "angular-ui-router": "^1.0.22",
     "single-spa": "^4.4.1",
     "single-spa-angularjs": "^3.1.0"
