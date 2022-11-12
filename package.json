@@ -33,7 +33,7 @@
     "single-spa-react": "^2.10.2",
     "style-loader": "^1.0.0",
     "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.1"
   }
 }
